@@ -1,0 +1,19 @@
+#h1Font {
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 5%;
+}
+.userInfo {
+  text-align: center;
+}
+
+#userpass {
+  padding-bottom: 4%;
+  padding-top: 0.5%;
+}
+
+#buttonft {
+  color: white;
+  background-color: rgb(89, 177, 232);
+  width: 5cm;
+}
